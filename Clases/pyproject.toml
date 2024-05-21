@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "funciones"
+name = "clases"
 version = "0.1.0"
 description = ""
 authors = ["Alejandro Aguayo-Ortiz <aaguayoo92@gmail.com>"]
@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 jupyterlab = "3.6.5"
-numpy = "^1.26.4"
 
 
 [build-system]
