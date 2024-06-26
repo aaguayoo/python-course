@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "extraccionocr"
+version = "0.1.0"
+description = ""
+authors = ["Alejandro Aguayo-Ortiz <aaguayoo92@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyterlab = "3.6.5"
+pytesseract = "^0.3.10"
+python-docx = "^1.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
